@@ -1,2 +1,5 @@
-# jake-and-elwood
+# Jake & Elwood
 A responsive website for a digital agency.
+
+## Objectives
+
